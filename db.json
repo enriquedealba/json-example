@@ -6,11 +6,13 @@
         "products": [
           {
             "id": 1,
-            "name": "Smartphone"
+            "name": "Smartphone",
+            "salePrice": 599.99
           },
           {
             "id": 2,
-            "name": "Laptop"
+            "name": "Laptop",
+            "salePrice": 899.99
           }
         ]
       },
@@ -20,11 +22,13 @@
         "products": [
           {
             "id": 3,
-            "name": "T-Shirt"
+            "name": "T-Shirt",
+            "salePrice": 19.99
           },
           {
             "id": 4,
-            "name": "Jeans"
+            "name": "Jeans",
+            "salePrice": 49.99
           }
         ]
       }
